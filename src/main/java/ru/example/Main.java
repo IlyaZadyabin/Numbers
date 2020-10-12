@@ -1,7 +1,5 @@
 package ru.example;
 
-import java.util.Scanner;
-
 public class Main {
     public static void main(String[] args) {
         long a = Long.parseLong(args[0]);
